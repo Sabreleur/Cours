@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Bonjour PHP</title>
+<link rel="stylesheet" href="CssBonjour.css"
 </head>
 
 <body>
